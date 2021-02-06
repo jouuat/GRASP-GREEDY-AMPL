@@ -1,0 +1,28 @@
+/// General
+instances_directory = instances;
+file_name = instance;
+file_extension = dat;
+num_instances = 3;
+
+//Workers Requested
+
+min_wr = 30;
+max_wr = 100;
+
+//Providers
+
+providers = 10;
+min_available_workers=2;
+max_available_workers=25;
+min_cost_contract=1000;
+max_cost_contract=3000;
+min_country=5;
+max_country=10;
+min_cost_workers=100;
+max_cost_workers=500;
+min_cost_1=1;
+max_cost_1=5;
+min_cost_2=5;
+max_cost_2=20;
+min_cost_3=350;
+max_cost_3=450;

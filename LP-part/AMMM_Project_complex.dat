@@ -1,0 +1,24 @@
+/*********************************************
+ * OPL 12.8.0.0 Data
+ * Author: joanpratsicart
+ * Creation Date: May 2, 2019 at 6:46:45 PM
+ *********************************************/
+wr=90; 
+providers =6;
+available_workers=[20 30 40 30 20 10]; 
+cost_contract=[10 30 20 40 50 10];
+country=[1 1 2 2 3 1];
+cost_workers=[30 20 10 5 5 30];
+cost_1=[10 30 20 40 50 10];
+cost_2=[30 90 60 120 150 30];
+cost_3=[120 360 240 480 600 120];
+
+//wr=15; 
+//providers =3;
+//available_workers=[5 10 15]; 
+//cost_contract=[10 30 5];
+//country=[1 1 2];
+//cost_workers=[10 20 30];
+//cost_1=[10 20 30];
+//cost_2=[30 60 90];
+//cost_3=[120 240 360];

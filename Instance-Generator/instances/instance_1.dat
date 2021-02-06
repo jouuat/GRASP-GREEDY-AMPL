@@ -1,0 +1,11 @@
+//	Requested Workers;
+wr = 75;
+//	Providers;
+providers = 10;
+available_workers = [44 26 34 36 32 6 16 22 40 32];
+cost_contract = [2861 2455 1561 1028 1787 2727 2615 2012 2105 1675];
+country = [5 8 8 8 5 6 5 7 10 7];
+cost_workers = [141 445 425 427 482 417 305 383 170 126];
+cost_1 = 5;
+cost_2 = 12;
+cost_3 = 350;

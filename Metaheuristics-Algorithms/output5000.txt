@@ -1,0 +1,25 @@
+AMMM Lab Heuristics
+-------------------
+Reading Config file config/config5000.dat...
+Config validated
+Reading Input Data file data/intance_5000.dat...
+Input validated
+Creating Problem...
+Problem created
+Solving Problem...
+Elap. Time (s)   Obj. Value     Iterations
+    0.00000310          inf              0
+   40.91978312   67525.00000000              1
+   83.93377709   64863.00000000              2
+  130.84037018   48901.00000000              3
+  179.03265309   46325.00000000              4
+  819.35918021   46073.00000000             17
+ 6116.48512602   45192.00000000            129
+ 6379.70348120   44220.00000000            135
+ 7206.68498921   44220.00000000            155
+
+Greedy Candidate Evaluation Performance:
+  Num. Candidates Eval. 775000
+  Total Eval. Time      1161.4191637 s
+  Avg. Time / Candidate 1.49860537252 ms
+Problem solved
